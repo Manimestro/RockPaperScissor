@@ -1,0 +1,36 @@
+.title{
+    color: goldenrod;
+    text-align: center;
+    text-decoration: solid;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+
+}
+.rock{
+    background-color: rgb(233, 194, 2);
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.fonter{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.background{
+    background-image: url("https://media.istockphoto.com/id/1227598160/vector/seamless-retro-abstract-shapes-background.jpg?s=612x612&w=0&k=20&c=WHHStjD2Sai8yih1wnakp_lfbZ4rKhZanQ2PzkjfuSw=");
+    background-size: cover;
+    height: 100%;
+}
+.stop{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: red;
+}
+.inner{
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 50px;
+}
